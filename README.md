@@ -1,6 +1,6 @@
 ### Ola, eu sou o Cairo 👋
  
-## Projetos de clientes com
+#### Tecnologias que utilizo em meu trabalho
 
 <div style='display:inline_block'><br/>
  
