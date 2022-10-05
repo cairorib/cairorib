@@ -4,7 +4,7 @@
 #### Desenvolvedor em CBMCE
 #### Atleta Cristão 
  
-#### Tecnologias que utilizo em meu trabalho
+### Tecnologias que utilizo em meu trabalho:
 
 <div style='display:inline_block'><br/>
  
