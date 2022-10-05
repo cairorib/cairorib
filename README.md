@@ -1,14 +1,14 @@
 ### Ola, eu sou o Cairo 👋
  
-## Minhas Skills
+## Projetos e clientes
 #### Aplicações e Dados
 <div style='display:inline_block'><br/>
  
 <img align ='center'  src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white' >
 <img align ='center'  src='https://img.shields.io/badge/Codeigniter 3-f5424e?style=for-the-badge&logo=codeigniter&logoColor=white' >
 <img align ='center'  src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
-<img align ='center'  src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' >
-<img align ='center'  src='https://img.shields.io/badge/Jupyter-d9d0d1?style=for-the-badge&logo=jupyter&logoColor=red' >
+<!-- <img align ='center'  src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' >
+<img align ='center'  src='https://img.shields.io/badge/Jupyter-d9d0d1?style=for-the-badge&logo=jupyter&logoColor=red' > -->
 <img align ='center'  src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' >
 <img align ='center'  src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' >
 <img align ='center'  src='https://img.shields.io/badge/EXPO-20232A?style=for-the-badge&logo=expo&logoColor=white' >
