@@ -1,6 +1,6 @@
 ### Ola, eu sou o Cairo 👋
 
-#### Atualmente estudando flutter
+ 
 #### Desenvolvedor em CBMCE
 #### Atleta Cristão 
  
