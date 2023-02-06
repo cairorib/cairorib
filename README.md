@@ -1,7 +1,8 @@
-### Ola, eu sou o Cairo 👋
+### Ola, eu sou o Cairo, 
+seja Bem vindo! 
 
  
-#### Desenvolvedor em CBMCE
+#### Sou Desenvolvedor em CBMCE
 #### Atleta Cristão 
  
 ### Tecnologias que utilizo em meu trabalho:
